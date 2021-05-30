@@ -8,7 +8,7 @@ public class Test2 {
 	public void sample() {
 		Reporter.log("hello api",true);
 		Reporter.log("hello java",true);
-		Reporter.log("hello python",true);
+	
 	}
 
 }
